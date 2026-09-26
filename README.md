@@ -20,3 +20,7 @@ Abdullahi Maow
 
 ## Deployment
 This website is deployed using GitHub Pages and Vercel.
+
+## Live Website Links
+- Github Pages: https://maow254.github.io/Maow-portfolio/
+- Vercel: maow-portfolio.vercel.app
